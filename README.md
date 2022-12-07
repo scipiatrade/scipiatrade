@@ -1,1 +1,1 @@
-![github](https://user-images.githubusercontent.com/120015113/206188116-889672f1-c94a-4a59-85e3-8c0d0ea28d65.jpg)
+![Scipia 2 logo](https://user-images.githubusercontent.com/120015113/206188238-760ada22-39a4-4246-8fc1-68b8af8bdd79.jpg)
