@@ -1,5 +1,7 @@
 ![image](https://user-images.githubusercontent.com/120015113/206188540-f190f0a4-759d-4882-a45c-5b6e8435846b.png)
 
+<p quote align='center'>jhjjk</p quote>
+
 <h2> Our Vision </h2>
 
 To beat the collective wisdom of the crowds through innovative and disruptive AI approaches.
