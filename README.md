@@ -1,10 +1,10 @@
 ![image](https://user-images.githubusercontent.com/120015113/206188540-f190f0a4-759d-4882-a45c-5b6e8435846b.png)
 
-> _“Every market we trade, we are committed to challenge the status quo. We embrace the most disruptive technology.
+> _“Every market we trade, we are committed to challenge the status quo. We embrace the most disruptive technology._
 > 
-> _The way we push the boundaries and confront every manager or institution is by implementing algorithmic, automated and ML-powered trading strategies.
+> _The way we push the boundaries and confront every manager or institution is by implementing algorithmic, automated and ML-powered trading strategies._
 > 
-> _Wanna join us!?”
+> _Wanna join us!?”_
 
 
 <h2> Our Vision </h2>
