@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/120015113/206188540-f190f0a4-759d-4882-a45c-5b6e8435846b.png)
+![image](https://user-images.githubusercontent.com/120015113/206425566-2c9f0ff7-5c2e-44d9-beda-9426dcb1e335.png)
 
 > _“Every market we trade, we are committed to challenge the status quo. We embrace the most disruptive technology._
 > 
