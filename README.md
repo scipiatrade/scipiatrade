@@ -7,11 +7,11 @@
 > _Wanna join us!?”_
 
 
-<h2> Our Vision. </h2>
+<h2> The path ━ Vision. </h2>
 
 Our horizon is to beat the collective wisdom of the crowds through innovative and disruptive AI approaches.
 
-<h2> Our mission. </h2>
+<h2> Focus ━ Mission. </h2>
 
 Our main goal is to generate alpha with one clic.
 
