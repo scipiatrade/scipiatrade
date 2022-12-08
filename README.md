@@ -9,7 +9,7 @@
 
 <h2> Our Vision. </h2>
 
-<img src="https://user-images.githubusercontent.com/120015113/206424794-db15c932-d956-4b5d-b03d-f48553ceaca3.png" align="right" width="200px"/> 
+<img src="https://user-images.githubusercontent.com/120015113/206424794-db15c932-d956-4b5d-b03d-f48553ceaca3.png" align="right" width="500px"/> 
 2
 Our horizon is to beat the collective wisdom of the crowds through innovative and disruptive AI approaches.
 
