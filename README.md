@@ -5,7 +5,8 @@
 > The way we push the boundaries and confront every manager or institution is by implementing algorithmic, automated and ML-powered trading strategies.
 > 
 > Wanna join us!?” \
-> — <cite>Scipianx<cite>
+> 
+> — <cite>_Scipianx_<cite>
 
 <h2> Our Vision </h2>
 
