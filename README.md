@@ -14,7 +14,7 @@ Scipia is a descentralized quant team with research lab structure that is focuse
 
 We specialize in alpha capture using multiple approaches like statistical arbitrage, trend following, relative value or factor investing. Our algorithms cover all stages of the investment process: data analysis, signal extraction, signal translation, bet sizing, portfolio construction, strategic asset allocation, risk management, and execution.
 
-<!-- Every market we trade, we are committed to challenge the status quo. We embrance the most disruptive technology.
+<!-- Every market we trade, we are committed to challenge the status quo. We embrace the most disruptive technology.
 The way we push the boundaries and confront every manager or institution is by implementing algorithmic, automated and ML-powered trading strategies.
 Wanna join us!? -->
 
