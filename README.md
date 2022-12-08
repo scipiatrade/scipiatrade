@@ -18,4 +18,4 @@ We specialize in alpha capture using multiple approaches like statistical arbitr
 The way we push the boundaries and confront every manager or institution is by implementing algorithmic, automated and ML-powered trading strategies.
 Wanna join us!? -->
 
-![image](https://user-images.githubusercontent.com/120015113/206396791-1e75b171-5ea1-4745-afa3-c1f4f7b187bc.png)
+
