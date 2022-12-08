@@ -3,7 +3,7 @@
 > “ Every market we trade, we are committed to challenge the status quo. We embrace the most disruptive technology.
 The way we push the boundaries and confront every manager or institution is by implementing algorithmic, automated and ML-powered trading strategies.
 Wanna join us!? ”
-
+> — <cite>Scipianx<cite>
 
 <h2> Our Vision </h2>
 
