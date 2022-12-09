@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/120015113/206425566-2c9f0ff7-5c2e-44d9-beda-9426dcb1e335.png)
 
-<h2> Beliefs and convitions. </h2>
+<h2> Reasons, beliefs and convitions. </h2>
 
 > _“Every market we trade, we are committed to challenge the status quo. We embrace the most disruptive technology._
 > 
@@ -13,7 +13,7 @@
 
 Our horizon is to beat the collective wisdom of the crowds through innovative and disruptive AI approaches.
 
-<h2> Focus ━ Mission. </h2>
+<h2> Focus on ━ Mission. </h2>
 
 Our main goal is to generate alpha with one clic.
 
