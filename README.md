@@ -1,5 +1,7 @@
 ![image](https://user-images.githubusercontent.com/120015113/206425566-2c9f0ff7-5c2e-44d9-beda-9426dcb1e335.png)
 
+<h2> Beliefs and convitions. </h2>
+
 > _“Every market we trade, we are committed to challenge the status quo. We embrace the most disruptive technology._
 > 
 > _The way we push the boundaries and confront every manager or institution is by implementing algorithmic, automated and ML-powered trading strategies._
