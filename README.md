@@ -15,11 +15,11 @@ Our horizon is to beat the collective wisdom of the crowds through innovative an
 
 <h2> Focus on ━ Mission. </h2>
 
-Our main goal is to generate alpha with one clic.
+Our main goal is to generate alpha with one click.
 
 <h2> Who we are. </h2>
 
-Scipia is a descentralized quant group with research lab structure. We are data scientists and data engineers focused on building wealth over time using machine learning algorithms. We use this expertise to deliver superior outcomes for our investors and business partners.
+Scipia is a decentralized quant group with a research lab structure. We are data scientists and data engineers focused on building wealth over time using machine learning algorithms. We use this expertise to deliver superior outcomes for our investors and business partners.
 
 We specialize in alpha capture using multiple approaches like statistical arbitrage, trend following, relative value or factor investing. Our algorithms cover all stages of the investment process: data analysis, signal extraction, signal translation, bet sizing, portfolio construction, strategic asset allocation, risk management, and execution.
 
