@@ -8,7 +8,6 @@
 > 
 > _Wanna join us!?”_
 
-[![Reach me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:scipiatech@gmail.com)
 
 <h2> The path ━ Vision. </h2>
 
