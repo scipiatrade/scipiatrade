@@ -8,7 +8,7 @@
 > 
 > _Wanna join us!?”_
 >
-> www.scipia.tech
+> scipia.tech
 
 
 <h2> The path ━ Vision. </h2>
