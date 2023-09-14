@@ -7,16 +7,17 @@
 > _The way we push the boundaries and confront every manager or institution is by implementing algorithmic, automated and ML-powered trading strategies._
 > 
 > _Wanna join us!?”_
+>
 > www.scipia.tech
 
 
 <h2> The path ━ Vision. </h2>
 
-Our horizon is to beat the collective wisdom of the crowds through innovative and disruptive AI approaches.
+Convert money into value.
 
 <h2> Focus on ━ Mission. </h2>
 
-Our main goal is to generate alpha with one click.
+Generating alpha with one click.
 
 <h2> Who we are. </h2>
 
