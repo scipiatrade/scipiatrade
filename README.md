@@ -7,7 +7,7 @@
 > _The way we push the boundaries and confront every manager or institution is by implementing algorithmic, automated and ML-powered trading strategies._
 > 
 > _Wanna join us!?”_
-
+> www.scipia.tech
 
 
 <h2> The path ━ Vision. </h2>
